@@ -1,5 +1,6 @@
 # Functionality:
 ## This document explains the Arduino code for simulating a mod8 up counter using the digitalWrite function.
+![Copy of Lesson 1 - Blinking LED](https://github.com/ShakeerSamanthapudi27/Mod8-Up-Counter/assets/139619967/acac75d7-246d-4148-91e9-6149042e8604)
 Counts from 0 to 7 in a loop.
 Outputs the counter value on three digital pins.
 Resets to 0 when the count reaches 8 (mod8 behavior).
